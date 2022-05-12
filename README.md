@@ -17,21 +17,13 @@ You can find the instructions below to get the CSI and FTM extractor tools for a
 
 **Sub-6GHZ devices**
 
-* CSI  router (ASUS AC1300)
+* CSI  router (ASUS AC1300). The instructions for running the CSI extractor tool are found in this [link](https://github.com/IMDEANetworksWNG/UbiLocate)
 
-The instructions for running the CSI extractor tool are found in this [link](https://github.com/IMDEANetworksWNG/UbiLocate)
-
-* FTM  router (ASUS AC1300)
-
-The instructions for running FTM are found in this [link](https://www.winlab.rutgers.edu/~gruteser/projects/ftm/index.htm)
+* FTM  router (ASUS AC1300). The instructions for running FTM are found in this [link](https://www.winlab.rutgers.edu/~gruteser/projects/ftm/index.htm)
 
 
 **mmWave device**
 
-* Mikrotik 60GHz device
-
-The instructions for running CSI and FTM extractor tools are found in this [link](https://github.com/IMDEANetworksWNG/Mikrotik-researcher-tools)
-
-In addition, this [link](https://github.com/IMDEANetworksWNG/Mikrotik-researcher-tools) contains the instructions for calibrating the Mikrotik devices. 
+* Mikrotik 60GHz device. The instructions for running CSI and FTM extractor tools are found in this [link](https://github.com/IMDEANetworksWNG/Mikrotik-researcher-tools). In addition, this [link](https://github.com/IMDEANetworksWNG/Mikrotik-researcher-tools) contains the instructions for calibrating the Mikrotik devices. 
 
 # MultiLoc implementation

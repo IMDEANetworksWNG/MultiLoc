@@ -1,6 +1,6 @@
 # MultiLoc
 
-MultiLoc is a MutiBand Localization system that merges information from mmWave and sub-6GHz bands. MultiLoc is implemented on Commercial-off-the-shelf  (COST) devices and is the first system to achieve less than 17 cm median location error with (COST) under their normal mode of operation.
+MultiLoc is a MutiBand Localization system that merges information from mmWave and sub-6GHz bands. MultiLoc is implemented on Commercial-Off-The-Shelf  (COST) devices and is the first system to achieve less than 17 cm median location error with COST under their normal mode of operation.
 
 ## Table of content
 

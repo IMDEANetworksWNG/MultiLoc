@@ -4,7 +4,7 @@ MultiLoc is a MutiBand Localization system that merges information from mmWave a
 
 ## Table of content
 
-- [Getting started](#gettingstarted)
+- [Getting started](#getting-started)
 - [MultiLoc implementation](#multiloc-implementation)
 
 # Getting started

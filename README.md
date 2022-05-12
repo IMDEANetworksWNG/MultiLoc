@@ -9,3 +9,5 @@ MultiLoc is a MutiBand Localization system that merges information from mmWave a
 
 # Implementation
 <img src="https://github.com/IMDEANetworksWNG/MultiLoc/blob/main/implementation.pdf" width="600" height="300">
+
+<a href="https://github.com/IMDEANetworksWNG/MultiLoc/blob/main/implementation.pdf" class="image fit">

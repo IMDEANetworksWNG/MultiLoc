@@ -25,4 +25,8 @@ The intructions for running CSI extractor tool are found in this [link](https://
 The intructions for running FTM are found in this [link](https://www.winlab.rutgers.edu/~gruteser/projects/ftm/index.htm)
 
 
+**mmWave device**
 
+* Mikrotik 60GHz device
+
+The intructions for running CSI and FTM extractor tools are found in this [link](https://github.com/IMDEANetworksWNG/Mikrotik-researcher-tools)

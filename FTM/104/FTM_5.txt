@@ -1,0 +1,100 @@
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 101035 psec, distance: 1515 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 100029 psec, distance: 1500 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 102905 psec, distance: 1543 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 99077 psec, distance: 1486 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 105266 psec, distance: 1578 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 103118 psec, distance: 1546 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 99910 psec, distance: 1498 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 107139 psec, distance: 1607 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 106244 psec, distance: 1593 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 114005 psec, distance: 1710 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 102572 psec, distance: 1538 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 100916 psec, distance: 1513 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 108104 psec, distance: 1621 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 107671 psec, distance: 1615 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 108068 psec, distance: 1621 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 112419 psec, distance: 1686 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 110015 psec, distance: 1650 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 106890 psec, distance: 1603 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 104334 psec, distance: 1565 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 103244 psec, distance: 1548 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 111980 psec, distance: 1679 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 103956 psec, distance: 1559 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 106182 psec, distance: 1592 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 103852 psec, distance: 1557 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 106456 psec, distance: 1596 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 102091 psec, distance: 1531 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 111700 psec, distance: 1675 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 108856 psec, distance: 1632 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 108174 psec, distance: 1622 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 104653 psec, distance: 1569 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 110545 psec, distance: 1658 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 108682 psec, distance: 1630 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 104586 psec, distance: 1568 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 102409 psec, distance: 1536 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 108446 psec, distance: 1626 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 106446 psec, distance: 1596 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 107613 psec, distance: 1614 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 104875 psec, distance: 1573 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 104657 psec, distance: 1569 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 107427 psec, distance: 1611 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 108707 psec, distance: 1630 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 106942 psec, distance: 1604 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 101958 psec, distance: 1529 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 103159 psec, distance: 1547 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 114203 psec, distance: 1713 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 109203 psec, distance: 1638 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 115827 psec, distance: 1737 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 105501 psec, distance: 1582 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 101267 psec, distance: 1518 cm
+phy #0: FTM result! Status: 0
+Target: 24:4b:fe:6b:90:9c, status: 0, rtt: 102427 psec, distance: 1536 cm

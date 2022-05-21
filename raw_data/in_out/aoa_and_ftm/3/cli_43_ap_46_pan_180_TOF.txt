@@ -1,0 +1,17 @@
+
+[ 3991.531501] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 41611164, 36059412, 45225984, 52726584
+[ 3991.539683] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 61849500, 56297628, 64972800, 72473592
+[ 3991.550748] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 81559452, 76007448, 84688896, 92189448
+[ 3994.793838] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 226545564, 36931752, 46086144, 237648888
+[ 3994.802054] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 246753180, 57139248, 65826816, 257389668
+[ 3994.813415] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 266463132, 76849092, 85512192, 277075128
+[ 4000.787391] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 412051356, 37271916, 46436352, 423164400
+[ 4000.795631] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 432258972, 57479436, 66177024, 442905600
+[ 4000.807009] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 452024220, 77244540, 85923840, 462652140
+[ 4002.407525] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 534230940, 138043416, 147382272, 545524644
+[ 4002.415816] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 554629020, 158441352, 167270400, 565412964
+[ 4004.017064] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 656631708, 127842960, 137084928, 667828344
+[ 4004.025438] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 676937628, 148148868, 156905472, 687648696
+[ 4004.036720] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 696727452, 167939028, 176701440, 707444856
+[ 4005.581408] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 779007900, 117684192, 126867456, 790139988
+[ 4005.589510] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 799240092, 137916108, 146601984, 809874984

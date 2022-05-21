@@ -1,0 +1,16 @@
+
+[  633.377568] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 3561372, 116142588, 125276160, 14621832
+[  633.385701] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 23787420, 136368588, 145035264, 34380972
+[  633.397119] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 43503516, 156084612, 164751360, 54097176
+[  635.017178] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 89257884, 116106624, 125251584, 100329600
+[  635.025338] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 109483932, 136332660, 144992256, 120070308
+[  635.036703] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 129175452, 156024120, 164677632, 139755792
+[  636.666982] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 174880668, 104478948, 113608704, 185937252
+[  636.675255] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 195075996, 124674228, 133330944, 205659588
+[  636.686642] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 214767516, 144365688, 153016320, 225344952
+[  645.587344] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 346089372, 195386652, 204521472, 357150984
+[  645.595581] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 366284700, 215581956, 224231424, 376860948
+[  645.607105] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 385976220, 235273404, 243947520, 396577056
+[  647.247821] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 431706012, 146561748, 155695104, 442766160
+[  647.255973] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 451901340, 166757040, 175405056, 462476148
+[  647.267401] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 471592860, 186448488, 195121152, 482192364

@@ -1,0 +1,73 @@
+### 38
+
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq master br-lan state UP qlen 1000
+    link/ether cc:2d:e0:9c:e2:35 brd ff:ff:ff:ff:ff:ff
+3: wlan0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN qlen 4000
+    link/ether 04:d6:aa:ab:45:40 brd ff:ff:ff:ff:ff:ff
+
+## 37
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq master br-lan state UP qlen 1000
+    link/ether cc:2d:e0:af:be:64 brd ff:ff:ff:ff:ff:ff
+3: wlan0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN qlen 4000
+    link/ether 04:d6:aa:c1:38:97 brd ff:ff:ff:ff:ff:ff
+
+## 36
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq master br-lan state UP qlen 1000
+    link/ether cc:2d:e0:e3:42:87 brd ff:ff:ff:ff:ff:ff
+3: wlan0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN qlen 4000
+    link/ether 04:d6:aa:6e:cc:9f brd ff:ff:ff:ff:ff:ff
+
+
+## 43 D0
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq master br-lan state UP qlen 1000
+    link/ether 08:55:31:0a:d6:e5 brd ff:ff:ff:ff:ff:ff
+3: wlan0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN qlen 4000
+    link/ether 08:55:31:0a:d6:e6 brd ff:ff:ff:ff:ff:ff
+
+## 44 D0
+
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq master br-lan state UP qlen 1000
+    link/ether 08:55:31:0a:d6:df brd ff:ff:ff:ff:ff:ff
+3: wlan0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN qlen 4000
+    link/ether 08:55:31:0a:d6:e0 brd ff:ff:ff:ff:ff:ff
+
+## 35
+
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq master br-lan state UP qlen 1000
+    link/ether cc:2d:e0:e3:42:88 brd ff:ff:ff:ff:ff:ff
+3: wlan0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN qlen 4000
+    link/ether 04:d6:aa:6e:cc:84 brd ff:ff:ff:ff:ff:ff
+
+## 39
+
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq master br-lan state UP qlen 1000
+    link/ether cc:2d:e0:9c:e2:b0 brd ff:ff:ff:ff:ff:ff
+3: wlan0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN qlen 4000
+    link/ether 04:d6:aa:ab:46:af brd ff:ff:ff:ff:ff:ff
+
+## 40
+
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq master br-lan state UP qlen 1000
+    link/ether cc:2d:e0:a7:16:b8 brd ff:ff:ff:ff:ff:ff
+3: wlan0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN qlen 4000
+    link/ether 04:d6:aa:6b:1f:f3 brd ff:ff:ff:ff:ff:ff
+
+## 45 3 antennas
+
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq master br-lan state UP qlen 1000
+    link/ether b8:69:f4:d5:81:5d brd ff:ff:ff:ff:ff:ff
+3: wlan0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN qlen 4000
+    link/ether b8:69:f4:d5:81:5e brd ff:ff:ff:ff:ff:ff
+
+## 46 3 antennas
+
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq master br-lan state UP qlen 1000
+    link/ether b8:69:f4:d5:7a:21 brd ff:ff:ff:ff:ff:ff
+3: wlan0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN qlen 4000
+    link/ether b8:69:f4:d5:7a:22 brd ff:ff:ff:ff:ff:ff
+
+## 47 3 antennas
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq master br-lan state UP qlen 1000
+    link/ether 08:55:31:9a:df:1e brd ff:ff:ff:ff:ff:ff
+3: wlan0: <BROADCAST,MULTICAST> mtu 1500 qdisc noop state DOWN qlen 4000
+    link/ether 08:55:31:9a:df:1f brd ff:ff:ff:ff:ff:ff

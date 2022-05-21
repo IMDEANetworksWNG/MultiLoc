@@ -1,0 +1,17 @@
+
+[  402.972249] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 3561372, 39524184, 48678912, 14755704
+[  402.979441] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 23984028, 59946756, 68634624, 34711656
+[  404.618046] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 89989020, 38005416, 47259648, 101282148
+[  404.625602] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 110466972, 58483104, 67190784, 121213752
+[  404.637109] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 130355100, 78371736, 87066624, 141089280
+[  406.198562] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 176385948, 148165212, 156917760, 187178088
+[  406.206024] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 196427676, 168206724, 176873472, 207134136
+[  406.217344] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 216346524, 188125332, 196773888, 227034612
+[  407.862065] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 262506396, 38665548, 47880192, 273760632
+[  407.869123] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 283015068, 59174076, 67872768, 293753400
+[  407.880685] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 302958492, 79117296, 87810048, 313690728
+[  409.534957] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 349142940, 39338340, 48500736, 360344760
+[  409.541567] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 369565596, 59760816, 68450304, 380294172
+[  409.552908] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 389478300, 79673256, 88356864, 400201188
+[  411.098060] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 435693468, 39405684, 48562176, 446889672
+[  411.105214] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 456060828, 59772816, 68456448, 466783992

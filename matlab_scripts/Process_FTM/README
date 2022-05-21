@@ -1,0 +1,9 @@
+Scripts:
+
+* Compute_Fusic_Ranging: Computes the fusic ranging for the optimazation
+* Compute_Fusic_Ranging_Delay: Computes the fusic ranging for the
+optimizaiton using mean excess delay
+* Optimization_Delay: Plots the ranging using different th of mean excess 
+delay factor
+* Optimization_Fusic: Same and the privous one but using the Fusic metric
+* Plot the paths and its power with mean excess delay and FTM error

@@ -1,0 +1,17 @@
+
+[  220.267418] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 3561372, 136307148, 145471488, 14600904
+[  220.275678] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 23738268, 156483912, 165150720, 34280256
+[  220.287049] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 43399068, 176144580, 184811520, 53941152
+[  221.911360] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 89018268, 100915704, 110063616, 100041528
+[  221.919366] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 109189020, 121086228, 129742848, 119720880
+[  223.551347] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 174555036, 90614892, 99778560, 185593944
+[  223.559415] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 194725788, 110785500, 119457792, 205273260
+[  223.570776] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 214386588, 130446240, 139112448, 224928060
+[  225.117294] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 260030364, 85550952, 94691328, 271045920
+[  225.125575] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 280201116, 105721572, 114364416, 290719092
+[  225.136991] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 299837340, 125357700, 134019072, 310373880
+[  226.691523] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 345456540, 90646104, 99790848, 356476536
+[  226.699677] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 365627292, 110816772, 119476224, 376161936
+[  226.711083] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 385288092, 130477380, 139130880, 395816748
+[  228.301446] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 430882716, 192113712, 201277440, 441921660
+[  228.309436] wil6210 0000:01:00.0 wlan0: wil_ftm_evt_per_dest_res: [FTM] Measurement: 451053468, 212284380, 220956672, 461600976

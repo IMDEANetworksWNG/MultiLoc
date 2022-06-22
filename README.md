@@ -26,7 +26,7 @@ You can find the instructions below to get the CSI and FTM extractor tools for a
 
 * Mikrotik 60GHz device. The instructions for running CSI and FTM extractor tools are found in this [link](https://github.com/IMDEANetworksWNG/Mikrotik-researcher-tools). In addition, this [link](https://github.com/IMDEANetworksWNG/MikroTik-mD-Track) contains the instructions for calibrating the Mikrotik devices. 
 
-# MultiLoc implementation (dataset + localization algorithms)
+# MultiLoc implementation
 Run matlab_scripts/Main.m to run the main of the MultiLoc implementation.
 
 Take into account that the script Main_HF.m is commented since it extracts the mmWave CSI and ToF. The CSI data cleaning uses GMM and we believe that every time is executed it does not produce the same output. We recommend using the already processed mmWave data of the project.

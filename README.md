@@ -29,11 +29,11 @@ series = {MobiSys '22}
 
 # Getting started
 
-MultiLoc is implemented in 2 sub-6GHz devices (CSI and FTM) and one mmWave device (Mikrotik) as depicted in the image below:
+MultiLoc is implemented in 2 sub-6GHz devices (one for CSI and another for FTM) and the MikroTik 60GHz device as depicted in the image below:
 
 <img src="https://github.com/IMDEANetworksWNG/MultiLoc/blob/main/implementation.png" width="400" height="400">
 
-You can find the instructions below to get the CSI and FTM extractor tools for all the devices below.
+You can find the instructions below to get the CSI and FTM extractor tools for all the devices.
 
 **Sub-6GHZ devices**
 

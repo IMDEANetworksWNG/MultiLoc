@@ -49,6 +49,6 @@ You can find the instructions below to get the CSI and FTM extractor tools for a
 # MultiLoc implementation
 Run matlab_scripts/Main.m to run the main of the MultiLoc implementation.
 
-Take into account that the script Main_HF.m is commented since it cleans the mmWave CSI. The CSI data cleaning uses GMM and we believe that every time is executed, it does not produce exactly same output. We recommend using the already processed mmWave data of the project.
+Take into account that the script Main_HF.m is commented since we recommend using the already processed mmWave data of the project.
 
 The scripts Main_LFs are also commented since the mD-track algorithm takes a considerable amount of time to get the path parameters, but feel free to execute it.
